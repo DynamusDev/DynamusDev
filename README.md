@@ -2,6 +2,7 @@
 
 [![Twitter Badge](https://img.icons8.com/cute-clipart/1x/twitter.png)](https://twitter.com/a2ncto)
 [![Instagram Badge](https://img.icons8.com/cute-clipart/1x/instagram-new.png)](https://www.instagram.com/_alexandrenascimento/)
+[![CV Badge](https://img.icons8.com/fluent/1.3x/resume-template.png)](https://github.com/DynamusDev/CV/blob/master/README.md)
 [![Linkedin Badge](https://img.icons8.com/cute-clipart/1x/linkedin.png)](https://www.linkedin.com/in/alexandreal/)
 [![Outlook Badge](https://img.icons8.com/fluent/1.3x/microsoft-outlook-2019.png)](mailto:alexandrenascimento@live.com)
 
