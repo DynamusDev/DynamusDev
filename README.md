@@ -7,8 +7,8 @@
 [![Outlook Badge](https://img.icons8.com/fluent/1.3x/microsoft-outlook-2019.png)](mailto:alexandrenascimento@live.com)
 
 
-CTO na Starthos and Fullstack Developer.
+### Fullstack Developer e CTO na Ekta - Uma cooperativa para dev's empoderados.
 
-Enthusiast of the best web & mobile development technologies.
+#### Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 
-"A imaginação é mais importante que a ciência, porque a ciência é limitada, ao passo que a imaginação abrange o mundo inteiro." - Albert Einstein
+_"A imaginação é mais importante que a ciência, porque a ciência é limitada, ao passo que a imaginação abrange o mundo inteiro." - Albert Einstein_
