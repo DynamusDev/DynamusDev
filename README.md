@@ -7,8 +7,8 @@
 [![Outlook Badge](https://img.icons8.com/fluent/1.3x/microsoft-outlook-2019.png)](mailto:alexandrenascimento@live.com)
 
 
-### Fullstack Developer e CTO na Ekta - Uma cooperativa para dev's empoderados.
+#### _Fullstack Developer e CTO na Ekta - Uma cooperativa para dev's empoderados._
 
-#### Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
+#### _Entusiasta das melhores tecnologias de desenvolvimento web e mobile._
 
 _"A imaginação é mais importante que a ciência, porque a ciência é limitada, ao passo que a imaginação abrange o mundo inteiro." - Albert Einstein_
