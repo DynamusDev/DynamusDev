@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  _"A imaginação é mais importante que a ciência, porque a ciência é limitada, ao passo que a imaginação abrange o mundo inteiro." - Albert Einstein_
+  "A imaginação é mais importante que a ciência, porque a ciência é limitada, ao passo que a imaginação abrange o mundo inteiro." - Albert Einstein
 </p> 
 
 <p align="left">
