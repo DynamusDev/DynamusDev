@@ -1,14 +1,26 @@
-# Alexandre Nascimento 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador dynamusdev">
 
-[![Twitter Badge](https://img.icons8.com/cute-clipart/1x/twitter.png)](https://twitter.com/a2ncto)
-[![Instagram Badge](https://img.icons8.com/cute-clipart/1x/instagram-new.png)](https://www.instagram.com/_alexandrenascimento/)
-[![CV Badge](https://img.icons8.com/fluent/1.3x/resume-template.png)](https://github.com/DynamusDev/CV/blob/master/README.md)
-[![Linkedin Badge](https://img.icons8.com/cute-clipart/1x/linkedin.png)](https://www.linkedin.com/in/alexandreal/)
-[![Outlook Badge](https://img.icons8.com/fluent/1.3x/microsoft-outlook-2019.png)](mailto:alexandrenascimento@live.com)
+<p align="left"> 
+  Hey, Alexandre Nascimento aqui <strong>Fullstack Developer</strong>, adepto a tecnologia open-source e apaixonado por desenvolvimento e aprendizado contínuo. 
+</p>
 
+<p align="left">
+  🦄 Skills: <strong>HTML5, CSS3, JavaScript, Sass, TypeScript, Styled-Components, ReactJs, React-Native, NodeJs, Socket.io, Google OAuth, Nodemailer, Lideraça de projetos, Scrum.</strong>
+</p>
 
-#### _Fullstack Developer e apaixonado por desenvolvimento._
+<p align="left">
+  💼 Tools: <strong>Visual Studio Code, Heroku, DigitalOcean, Figma, Netlify, Git and GitHub.</strong>
+</p>
 
-#### _Entusiasta das melhores tecnologias de desenvolvimento web e mobile._
+<p align="left">
+  _"A imaginação é mais importante que a ciência, porque a ciência é limitada, ao passo que a imaginação abrange o mundo inteiro." - Albert Einstein_
+</p> 
 
-_"A imaginação é mais importante que a ciência, porque a ciência é limitada, ao passo que a imaginação abrange o mundo inteiro." - Albert Einstein_
+<p align="left">
+  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_alexandrenascimento/"/></a>
+  
+  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandreal/" /></a>
+
+</p> 
