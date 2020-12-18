@@ -7,7 +7,7 @@
 [![Outlook Badge](https://img.icons8.com/fluent/1.3x/microsoft-outlook-2019.png)](mailto:alexandrenascimento@live.com)
 
 
-#### _Fullstack Developer e amante das melhores tecnologias._
+#### _Fullstack Developer e apaixonado por desenvolvimento._
 
 #### _Entusiasta das melhores tecnologias de desenvolvimento web e mobile._
 
