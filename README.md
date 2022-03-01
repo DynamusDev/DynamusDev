@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador dynamusdev">
 
 <p align="left"> 
-  Hey, Alexandre Nascimento na área <strong>Front-End Engineer</strong>, adepto a tecnologia open-source e apaixonado por desenvolvimento e aprendizado contínuo. 
+  Hey, Alexandre Nascimento na área <strong>Front-End Engineer</strong>. Adepto a tecnologia open-source e apaixonado por desenvolvimento e aprendizado contínuo. 
   Fique à vontade pra ver meus projetos seja bem vindo!!!
 </p>
 
