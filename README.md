@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador dynamusdev">
 
 <p align="left"> 
-  Hey, Alexandre Nascimento na área <strong>Fullstack Developer</strong>, adepto a tecnologia open-source e apaixonado por desenvolvimento e aprendizado contínuo. 
+  Hey, Alexandre Nascimento na área <strong>Front-End Engineer</strong>, adepto a tecnologia open-source e apaixonado por desenvolvimento e aprendizado contínuo. 
   Fique à vontade pra ver meus projetos seja bem vindo!!!
 </p>
 
 <p align="left">
-  Skills: <strong>HTML5, CSS3, JavaScript, Sass, TypeScript, Styled-Components, ReactJs, React-Native, NodeJs, Socket.io, Google OAuth, Nodemailer, Lideraça de projetos, Scrum.</strong>
+  Skills: <strong>HTML5, CSS3, JavaScript, TypeScript, Sass, Chakra-UI, Styled-Components, ReactJs, NextJS, React-Native, NodeJs, Socket.io, Google OAuth, Nodemailer, Lideraça de projetos, Scrum.</strong>
 </p>
 
 <p align="left">
-  Tools: <strong>Visual Studio Code, Heroku, DigitalOcean, Figma, Netlify, Git and GitHub.</strong>
+  Tools: <strong>Visual Studio Code, Heroku, DigitalOcean, Figma, Netlify, Bitbucket, Jenkins, Git and GitHub.</strong>
 </p>
 
 <p align="left">
