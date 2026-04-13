@@ -27,8 +27,11 @@
 ### 📊 Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DynamusDev&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamusDev&layout=compact&theme=dark&hide_border=true&langs_count=6"/>
+  <img src="https://streak-stats.demolab.com/?user=DynamusDev&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DynamusDev&theme=dracula" alt="Repos por linguagem"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DynamusDev&theme=dracula" alt="Horários de contribuição"/>
 </p>
 
 ---
